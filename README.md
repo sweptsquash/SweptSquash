@@ -1,10 +1,9 @@
 ### Hi there, I'm Stewart - aka Stewie or SweptSquash 👋
  
 ## I'm a Gamer and Developer
-- 📆 2020 Goals: Complete VueMaster Course, Complete Laravel Course
 - 👨‍💻 I Specialize in Fullstack Development
 - 🎮 I'm always looking for the next skill to learn
-- ⚡ Fun fact: I'm a selft taught developer
+- ⚡ Fun fact: I'm a self taught developer
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
