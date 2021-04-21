@@ -4,6 +4,8 @@
 - 👨‍💻 I Specialize in Fullstack Development
 - 🎮 I'm always looking for the next skill to learn
 - ⚡ Fun fact: I'm a self taught developer
+- Favourite Tech Stack: Laravel, InertiaJS, VueJS
+- Favourite Game Franchises: Halo, Battlefield, Call of Duty, Command and Conquer
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
