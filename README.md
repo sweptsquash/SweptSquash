@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" alt="SweptSquash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sweptsquash&show_icons=true&hide_border=true&count_private=true" />
+![Stewart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sweptsquash&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
 
 [Twitter]: https://www.twitter.com/sweptsquash
 [LinkedIn]: https://www.linkedin.com/in/sweptsquash/
