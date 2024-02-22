@@ -4,8 +4,8 @@
 - 👨‍💻 I Specialize in Fullstack Development
 - 🎮 I'm always looking for the next skill to learn
 - ⚡ Fun fact: I'm a self taught developer
-- Favourite Tech Stack: Laravel, InertiaJS, VueJS, TailwindCSS
-- Favourite Game Franchises: Halo, Battlefield, Call of Duty, Command and Conquer
+- Favourite Tech Stack: Laravel, NuxtJS, VueJS, TailwindCSS
+- Favourite Game Franchises: Helldivers 2, Halo, Battlefield, Call of Duty, Command and Conquer
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
@@ -37,3 +37,4 @@
 
 [Twitter]: https://www.twitter.com/sweptsquash
 [LinkedIn]: https://www.linkedin.com/in/sweptsquash/
+[Twitch]: https://www.twitch.tv/sweptsquash
