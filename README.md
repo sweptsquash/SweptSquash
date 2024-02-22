@@ -8,8 +8,9 @@
 - Favourite Game Franchises: Helldivers 2, Halo, Battlefield, Call of Duty, Command and Conquer
 
 ### Connect with me:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/000/fff" />][Twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/000/fff" />][LinkedIn]
+[<img align="left" alt="Twitch" width="22px" src="https://cdn.simpleicons.org/twitch/000/fff" />][Twitch]
 
 <br />
 
