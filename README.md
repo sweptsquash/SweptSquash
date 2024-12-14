@@ -20,11 +20,11 @@ My contributions resulted in:
 - Simplified onboarding processes for new team members
 
 ## 🌐 Skills & Technologies
-- Languages: PHP, HTML, JavaScript, C++ (Basic)
-- Frontend: VueJS, ReactJS
-- Frameworks: Laravel, NuxtJS, TailwindCSS
-- DevOps: AWS, Docker, CloudFlare, CI/CD Workflows
-- Other: UI/UX, Ubuntu, JIRA
+- **Languages:** PHP, HTML, JavaScript, C++ (Basic)
+- **Frontend:** VueJS, ReactJS
+- **Frameworks:** Laravel, NuxtJS, TailwindCSS
+- **DevOps:** AWS, Docker, CloudFlare, CI/CD Workflows
+- **Other:** UI/UX, Ubuntu, JIRA
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sweptsquash&layout=compact&theme=dark)
 
