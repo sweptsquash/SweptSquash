@@ -1,33 +1,39 @@
-### Hi there, I'm Stewart - aka Stewie or SweptSquash 👋
- 
-## I'm a Gamer and Developer
-- 👨‍💻 I Specialize in Fullstack Development
-- 🎮 I'm always looking for the next skill to learn
-- ⚡ Fun fact: I'm a self taught developer
-- Favourite Tech Stack: Laravel, NuxtJS, VueJS, TailwindCSS
-- Favourite Game Franchises: Helldivers 2, Halo, Battlefield, Call of Duty, Command and Conquer
+### 👋 Hi there, I'm Stewart - aka Stewie or SweptSquash 
+
+I'm a self-taught Senior Full-Stack engineer passionate about building elegant, efficient software solutions and fostering great developer experiences. I specialise in **Laravel**, **PHP**, **VueJS**, **NuxtJS**, **TailwindCSS** but my skills also extend to **DevOps** including **AWS**, **Docker** and **CI/CD Workflows** ensuring seamless deployment.
+
+Driven by an entrepreneurial mindset, I align technical strategies with business goals, constantly seeking to add value through innovative solutions. When I'm not coding, I love diving into immersive video games like Halo, Battlefield, Call of Duty.
+
+## 🚀 Previous Role
+As the Lead Engineer at AVRillo, I led the team in adopting modern engineering practices that streamlined development and improved team efficiency:  
+
+- **Established coding standards** for a more consistent codebase.
+- **Implemented CI/CD pipelines**
+- **Migrated task management to JIRA**, fostering transparency and accountability.  
+- **Automated developer onboarding** with bash scripts, cutting setup time by 50%.  
+
+My contributions resulted in:
+- Improved developer satisfaction and morale
+- Enhanced clarity in expectations and workflows
+- Significant performance boosts across services through automation
+- A streamlined and consistent developer experience
+- Simplified onboarding processes for new team members
+
+## 🌐 Skills & Technologies
+- Languages: PHP, HTML, JavaScript, C++ (Basic)
+- Frontend: VueJS, ReactJS
+- Frameworks: Laravel, NuxtJS, TailwindCSS
+- DevOps: AWS, Docker, CloudFlare, CI/CD Workflows
+- Other: UI/UX, Ubuntu, JIRA
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sweptsquash&layout=compact&theme=dark)
 
 ### Connect with me:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/000/fff" />][Twitter]
+Feel free to connect with me on these platforms! I'm always open to discussing new opportunities, collaborations, or just geeking out about tech.
+
+[<img align="left" alt="X (Formerly Twitter)" width="22px" src="https://cdn.simpleicons.org/x/000/fff" />][Twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/000/fff" />][LinkedIn]
 [<img align="left" alt="Twitch" width="22px" src="https://cdn.simpleicons.org/twitch/000/fff" />][Twitch]
-
-<br />
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
@@ -35,6 +41,8 @@
 ---
 
 ![Stewart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sweptsquash&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sweptsquash&theme=darkhub)
 
 [Twitter]: https://www.twitter.com/sweptsquash
 [LinkedIn]: https://www.linkedin.com/in/sweptsquash/
